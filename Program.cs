@@ -12,7 +12,7 @@ namespace Calculator
         {
             Console.WriteLine("Quais funções deseja utilizar na calculadora? ");
             Console.WriteLine("1 - Soma");
-            Console.WriteLine("2 - Subtração");
+            Console.WriteLine("2 - Subtraçôes");
             Console.WriteLine("3 - Divisão");
             Console.WriteLine("4 - Multiplicação");
             Console.WriteLine("5 - Sair");
