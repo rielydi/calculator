@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NVJJGIWy858397DQee0Eem9UrJRWajz4sQ0Dvw9kO+N47/L6uctoBHfZ6wJjQEZdmt8BxTQX8w7v8j6UnoWCKA==",
+  "dgSpecHash": "CASh52WOU73x6p+KasS1EufBq1k6bUKbB5udBKbukjCj6zBOkUbH5yLwYfpWs+5zuAK/u/E8T8sIm8yHLp4r9g==",
   "success": true,
-  "projectFilePath": "C:\\dev\\calculator\\calculator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/codespace/calculator/calculator/calculator.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/6.0.19/microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.19/microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.19/microsoft.netcore.app.host.linux-x64.6.0.19.nupkg.sha512"
+  ],
   "logs": []
 }
